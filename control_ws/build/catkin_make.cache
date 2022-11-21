@@ -1,0 +1,2 @@
+ps4-ros
+-DCATKIN_DEVEL_PREFIX=/home/krita/control_ws/devel -DCMAKE_INSTALL_PREFIX=/home/krita/control_ws/install -G Unix Makefiles

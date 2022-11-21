@@ -1,0 +1,8 @@
+prefix=/home/krita/control_ws/install
+
+Name: ps4_ros
+Description: Description of ps4_ros
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
